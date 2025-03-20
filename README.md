@@ -40,6 +40,13 @@ I'm a passionate developer specializing in frontend development with React and b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monru00&show_icons=true&theme=radical)
+![Metrics](https://metrics.lecoq.io/monru00?template=classic&base.header=0&base.metadata=0&config.timezone=Etc/UTC)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=monru00&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monru00&theme=radical)
+
+
+
 
 
 
