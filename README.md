@@ -8,7 +8,7 @@ I'm a passionate developer specializing in frontend development with React and b
 - 🤝 I'm open to collaborating on anything cool
 - 🖥️ Visit my portfolio: [mohammednesru.vercel.app](https://mohammednesru.vercel.app/)
 - 🧠 I'm learning GraphQl
-- 📫 Reach me me at contactmohammed00@gmail.com
+- 📫 Reach me me at mohammednesru00@gmail.com
 
 ### 🚀 Technologies I Worke On:
 
