@@ -46,6 +46,9 @@ I'm a passionate developer specializing in frontend development with React and b
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monru00&theme=radical)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monru00&layout=compact&theme=radical)
+
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=monru00&theme=react)  
 
 ![Metrics](https://metrics.lecoq.io/monru00?template=classic&base.header=0&base.metadata=0&config.timezone=Etc/UTC)  
